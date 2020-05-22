@@ -1,0 +1,7 @@
+*.pyc
+*migrations
+/youtube_api/client_secret.json
+/env/
+/media/
+/static/
+db.sqlite3
